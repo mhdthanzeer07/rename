@@ -7,7 +7,7 @@ I am a Simple File Renamer Bot with  Permanent Thumbnail support
 
 Send me any Telegram file and choose appropriate option!
 
-"""**MY Onwer Is ➠ @mhd_thanzeer**
+MY Onwer Is ➠ ** @mhd_thanzeer **
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
