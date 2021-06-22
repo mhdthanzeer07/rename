@@ -31,7 +31,7 @@ MY Onwer Is ➠ ** @mhd_thanzeer **
 
     HELP_USER = """
 
-<b>It's not that complicated😅</b>
+<b>It's not that complicated😅</b
     
 1. Send me a custom thumbnail (Optional) 
 
