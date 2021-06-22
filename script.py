@@ -7,17 +7,17 @@ I am a Simple File Renamer Bot with  Permanent Thumbnail support
 
 Send me any Telegram file and choose appropriate option!
 
-"""
+"""**MY Onwer Is ➠ @mhd_thanzeer**
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT **@mhd_thanzeer** "
 
     DOWNLOAD_START = "Download Started... "
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Ts_Bots**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @mhd_thanzeer**"
 
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
 
@@ -27,7 +27,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = " **@mhd_thanzeer** "
 
     HELP_USER = """
 
@@ -42,7 +42,7 @@ Send me any Telegram file and choose appropriate option!
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+<b>By @mhd_thanzeer</b>
 """
 
     ABOUT_TEXT = """
@@ -57,10 +57,10 @@ Send me any Telegram file and choose appropriate option!
 
 ○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/mhdthanzeer07/rename) 
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_Bots](https://t.me/ts_bots)
+○ ᴄʀᴇᴀᴛᴏʀ : [@mhd_thanzeer](https://t.me/mhd_thanzeer)
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
+**[©️ THANZEER CREATION](https://t.me/mhd_thanzeer)**
 
 """
